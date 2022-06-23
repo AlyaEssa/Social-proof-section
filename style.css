@@ -44,8 +44,9 @@ body {
 .top-content p {
   color: var(--Dark-Grayish-Magenta);
   font-weight: 500;
-  font-size: 20px;
+  font-size: 16px;
   margin: 30px 0;
+  line-height: 1.5;
 }
 
 /* rate-card */
