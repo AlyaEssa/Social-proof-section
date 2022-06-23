@@ -43,9 +43,9 @@ body {
 }
 .top-content p {
   color: var(--Dark-Grayish-Magenta);
-  font-weight: 500;
+  font-weight: 600;
   font-size: 16px;
-  margin: 30px 0;
+  margin: 25px 0;
   line-height: 1.5;
 }
 
