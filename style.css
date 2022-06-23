@@ -128,7 +128,6 @@ body {
   }
   .rate-section {
     grid-column: 2 / 3;
-    width: 111%; /* new */
   }
   .rate h4 {
     margin-top: 7px;
