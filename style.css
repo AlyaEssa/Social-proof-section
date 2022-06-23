@@ -58,7 +58,7 @@ body {
 }
 .rate {
   background-color: var(--Light-Grayish-Magenta);
-  padding: 5%;
+  padding: 3%;
   text-align: center;
   border-radius: 10px;
 }
