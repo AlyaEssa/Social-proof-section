@@ -108,6 +108,7 @@ body {
 }
 .card-rievew {
   color: var(--Light-Grayish-Magenta);
+  color: #fff;
   margin-top: 15px;
   line-height: 21px;
   font-size: 12px;
